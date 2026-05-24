@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+torch
+tensorflow
+scikit-learn
+jinja2
+python-multipart

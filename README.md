@@ -1,4 +1,4 @@
-# Классификация эмоций в тексте: LSTM vs Transformer (с API для инференса)
+# Классификация эмоций в тексте: LSTM vs Transformer с API
 
 Проект по классификации эмоций в текстовых данных (anger, fear, joy, love, sadness, surprise). Сравниваются две архитектуры: LSTM с Bidirectional слоями и кастомный Transformer с позиционным кодированием. Обе модели обучались с нуля на датасете emotions. Лучшая модель (LSTM) развёрнута в виде REST API на Hugging Face Spaces.
 
